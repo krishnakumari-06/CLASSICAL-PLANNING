@@ -105,6 +105,7 @@ print(plan)
 ```
 ['move_A_to_B', 'move_B_to_C']
 ```
-
+# Result:
+  The program executed and verified successfully.
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
